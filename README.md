@@ -36,6 +36,12 @@ This is an application based on plug-and-play architecture. All services are bei
 <img src="./images/design.png" alt="The Challenger" width="100%">
 </div>
 
+Example
+
+<div align="center">
+<img src="./images/servers.png" alt="The Challenger" width="100%">
+</div>
+
 ## Quick Start
 
 To clone and run this application, you'll need [MongoDB](https://www.mongodb.com), [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
